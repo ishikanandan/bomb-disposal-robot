@@ -82,8 +82,7 @@ Potential applications of the concept include:
 Project photographs and supporting documentation are included in this repository.
 
 ## Project Presentation
-
-[View Project Presentation](Bomb-Disposal-Robot.pdf)
+[View Project Documentation](BOMB%20DISPOSAL%20ROBOT.pdf)
 
 ## Project Details
 
@@ -94,16 +93,16 @@ Project photographs and supporting documentation are included in this repository
 ## Project Images
 
 ### Robot Assembly
-![Robot Assembly](images/robot-assembly.png)
+![Robot Assembly](robot-assembly.png)
 
 ### Circuit Diagram
-![Circuit Diagram](images/circuit-diagram.png)
+![Circuit Diagram](circuit-diagram.png)
 
 ### Chassis Components
-![Chassis Parts](images/chassis-parts.png)
+![Chassis Parts](chassis-parts.png.png)
 
 ### Hardware Components
-![Components](images/components.png)
+![Components](components.png)
 
 ### Robot Base
-![Robot Base](images/robot-base.png)
+![Robot Base](robot-base.png)
