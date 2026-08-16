@@ -83,10 +83,27 @@ Project photographs and supporting documentation are included in this repository
 
 ## Project Presentation
 
-[View Project Presentation](Bomb-Disposal-Robot-Project.pdf)
+[View Project Presentation](Bomb-Disposal-Robot.pdf)
 
 ## Project Details
 
 **Project Type:** Real-Time Research Based Project  
 **Year:** Second Year B.Tech  
 **Branch:** Mechatronics Engineering
+
+## Project Images
+
+### Robot Assembly
+![Robot Assembly](images/robot-assembly.png)
+
+### Circuit Diagram
+![Circuit Diagram](images/circuit-diagram.png)
+
+### Chassis Components
+![Chassis Parts](images/chassis-parts.png)
+
+### Hardware Components
+![Components](images/components.png)
+
+### Robot Base
+![Robot Base](images/robot-base.png)
