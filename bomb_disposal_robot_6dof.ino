@@ -20,7 +20,7 @@
 Adafruit_PWMServoDriver pwm = Adafruit_PWMServoDriver();
 
 // =========================
-// 4-DOF Robotic Arm
+// 6-DOF Robotic Arm
 // =========================
 // Servo channels on PCA9685
 enum ServoID {
@@ -110,7 +110,7 @@ void handleCommand(char cmd) {
       break;
 
 
-    // 4-DOF robotic arm movement
+    // 6-DOF robotic arm movement
     case '1':
       moveServo(BASE, 300);
       break;
