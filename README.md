@@ -1,6 +1,6 @@
 # Bomb Disposal Robot
 
-A remotely operated robotic system designed for simulated hazardous-object handling. The project combines a mobile robotic platform, a 4-DOF robotic arm, Bluetooth-based control, and real-time video surveillance.
+A remotely operated robotic system designed for simulated hazardous-object handling. The project combines a mobile robotic platform, a 6-DOF robotic arm, Bluetooth-based control, and real-time video surveillance.
 
 ## Project Overview
 
@@ -13,7 +13,7 @@ The project explores how robotics and remote operation can be used to reduce dir
 ## Key Features
 
 - Remotely operated robotic platform
-- 4-DOF robotic arm for object manipulation
+- 6-DOF robotic arm for object manipulation
 - Bluetooth-based control
 - Real-time video surveillance
 - Motor-driven mobile platform
@@ -26,7 +26,7 @@ The project explores how robotics and remote operation can be used to reduce dir
 - HC-05 Bluetooth module
 - 12 V battery
 - DC geared motors
-- 4-DOF robotic arm
+- 6-DOF robotic arm
 - Camera module
 - LEDs and resistors
 - Chassis and mechanical components
@@ -39,7 +39,7 @@ The system consists of three main sections:
    Provides movement and navigation of the robot.
 
 2. **Robotic Manipulation System**  
-   A 4-DOF robotic arm is used to reach and manipulate objects.
+   A 6-DOF robotic arm is used to reach and manipulate objects.
 
 3. **Surveillance and Remote Operation**  
    Bluetooth-based control enables remote operation, while the camera provides live visual feedback.
